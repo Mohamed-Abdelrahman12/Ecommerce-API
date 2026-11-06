@@ -1,0 +1,16 @@
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Application\obj\Debug\net8.0\Ecom.Application.csproj.AssemblyReference.cache
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Application\obj\Debug\net8.0\Ecom.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Application\obj\Debug\net8.0\Ecom.Application.AssemblyInfoInputs.cache
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Application\obj\Debug\net8.0\Ecom.Application.AssemblyInfo.cs
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Application\obj\Debug\net8.0\Ecom.Application.csproj.CoreCompileInputs.cache
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Application\bin\Debug\net8.0\Ecom.Application.deps.json
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Application\bin\Debug\net8.0\Ecom.Application.dll
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Application\bin\Debug\net8.0\Ecom.Application.pdb
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Application\bin\Debug\net8.0\Ecom.Domain.dll
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Application\bin\Debug\net8.0\Ecom.Domain.pdb
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Application\obj\Debug\net8.0\Ecom.App.23C5D0F5.Up2Date
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Application\obj\Debug\net8.0\Ecom.Application.dll
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Application\obj\Debug\net8.0\refint\Ecom.Application.dll
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Application\obj\Debug\net8.0\Ecom.Application.pdb
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Application\obj\Debug\net8.0\ref\Ecom.Application.dll
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Application\obj\Debug\net8.0\Ecom.Application.sourcelink.json

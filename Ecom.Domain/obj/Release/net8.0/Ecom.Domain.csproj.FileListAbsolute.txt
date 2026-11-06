@@ -1,0 +1,13 @@
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Domain\bin\Release\net8.0\Ecom.Domain.deps.json
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Domain\bin\Release\net8.0\Ecom.Domain.dll
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Domain\bin\Release\net8.0\Ecom.Domain.pdb
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Domain\obj\Release\net8.0\Ecom.Domain.csproj.AssemblyReference.cache
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Domain\obj\Release\net8.0\Ecom.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Domain\obj\Release\net8.0\Ecom.Domain.AssemblyInfoInputs.cache
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Domain\obj\Release\net8.0\Ecom.Domain.AssemblyInfo.cs
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Domain\obj\Release\net8.0\Ecom.Domain.csproj.CoreCompileInputs.cache
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Domain\obj\Release\net8.0\Ecom.Domain.sourcelink.json
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Domain\obj\Release\net8.0\Ecom.Domain.dll
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Domain\obj\Release\net8.0\refint\Ecom.Domain.dll
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Domain\obj\Release\net8.0\Ecom.Domain.pdb
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Domain\obj\Release\net8.0\ref\Ecom.Domain.dll

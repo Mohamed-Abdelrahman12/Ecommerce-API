@@ -1,0 +1,15 @@
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Infastructure\obj\Debug\net8.0\Ecom.Infastructure.csproj.AssemblyReference.cache
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Infastructure\obj\Debug\net8.0\Ecom.Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Infastructure\obj\Debug\net8.0\Ecom.Infastructure.AssemblyInfoInputs.cache
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Infastructure\obj\Debug\net8.0\Ecom.Infastructure.AssemblyInfo.cs
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Infastructure\obj\Debug\net8.0\Ecom.Infastructure.csproj.CoreCompileInputs.cache
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Infastructure\bin\Debug\net8.0\Ecom.Infastructure.deps.json
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Infastructure\bin\Debug\net8.0\Ecom.Infastructure.dll
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Infastructure\bin\Debug\net8.0\Ecom.Infastructure.pdb
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Infastructure\bin\Debug\net8.0\Ecom.Core.dll
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Infastructure\bin\Debug\net8.0\Ecom.Core.pdb
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Infastructure\obj\Debug\net8.0\Ecom.Inf.26B0AA2E.Up2Date
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Infastructure\obj\Debug\net8.0\Ecom.Infastructure.dll
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Infastructure\obj\Debug\net8.0\refint\Ecom.Infastructure.dll
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Infastructure\obj\Debug\net8.0\Ecom.Infastructure.pdb
+D:\.mohamed\.Net Core Projects\EcommeceSolution\Ecom.Infastructure\obj\Debug\net8.0\ref\Ecom.Infastructure.dll
